@@ -31,6 +31,7 @@ And i also like movies, series (don't care if they're occidental or not), books 
 
 #### Games played
 I like to keep a list of games i've played, because i believe they're a good source of references and/or ideas. These are all i can remember by name at last. And if i have it i might as well share it.
+
 |Games Played|
 |--------------|
 |Infamous 1/2/Second Son/First Light|
@@ -109,9 +110,3 @@ I like to keep a list of games i've played, because i believe they're a good sou
 |Tales of Vesperia|
 |Spore/galactic adventures|
 |Black & White 1 and 2|
-
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |

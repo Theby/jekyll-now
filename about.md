@@ -31,81 +31,81 @@ And i also like movies, series (don't care if they're occidental or not), books 
 
 #### Games played
 I like to keep a list of games i've played, because i believe they're a good source of references and/or ideas. These are all i can remember by name at last. And if i have it i might as well share it.
-Games Played|
---------------
-Infamous 1/2/Second Son/First Light|
-Mass effect 1/2/3|
-Dishonored|
-Unreal Tournament 2000/2004/III|
-Life is Strange|
-Zeno Clash 1|
-The Witcher 1/2/3|
-Elder Scrolls Skyrim|
-Red Faction Guerrilla/Armageddon|
-Prototype 1/2|
-Dragon Age Origins/2/Inquisition|
-Far Cry 3/4|
-Dying Light|
-GTA Vice City|
-Legend Of Korra|
-Tales of Symphonia 2|
-Fable 1/3/Remastered(i'm not sorry)|
-Dead Rising 2/3|
-Digimon World 1/3/Re:Digitize|
-Ragnarok Online (way too many hours)|
-Amazing Spiderman 1/2|
-Duke Nukem Forever|
-From Dust|
-Game of Thrones game (RPG)|
-Game of Thrones Telltale|
-The Walking Dead (telltale) 1/2|
-the Wolf among Us|
-Hard Reset|
-Inversion|
-Dead Space 1/2/3|
-Dead Island 1|
-Civilization V/Beyond Earth|
-Bioshock Infinite|
-Binary Domain|
-Alice Madness Return|
-Back to the Future (telltale)|
-Batman Arkham Asylum/City/Origins|
-Crysis 1/2/3|
-Darkness 2|
-Bulletstorm|
-Borderlands 1/2|
-Metal Gear Rising|
-Sims 1/2/3/Medieval|
-Lego Star wars 1/2, the clone wars|
-Lego indiana johnes|
-Lego Marvel|
-Lego Avengers|
-Jade Empire|
-Saint's Row 4/Gat out of hell|
-Starcraft 1/2 wings of liberty|
-Warhammer 40k Space Marine|
-XCOM: Enemy Unknown|
-Red Dead Redemption|
-Vanquish|
-Plants vs Zombies 1/2/Garden Warfare/GW2|
-Pokemon (black/emerald/red leaf?)|
-Pepsiman (yes, PSX)|
-Final Fantasy Tactics (Lion War)|
-Legend of the Dragoon|
-Final Fantasy VII|
-Age of Empires I/II|
-Disciples III|
-Heroes of Might and Magic VI|
-Rock of Ages|
-The Bureau: XCOM Declassified|
-Katamari Damacy/Touch my Katamari|
-Phoenix Wright 1/2/3|
-Strike Suit Zero|
-Digimon Masters Online (korean server)|
-Omega Boost|
-Orochi Warriors 1/2|
-Hokuto Musou|
-Gundam Musou|
-Tales of Vesperia|
-Spore/galactic adventures|
-Black & White 1 and 2|
+|Games Played|
+|--------------|
+|Infamous 1/2/Second Son/First Light|
+|Mass effect 1/2/3|
+|Dishonored|
+|Unreal Tournament 2000/2004/III|
+|Life is Strange|
+|Zeno Clash 1|
+|The Witcher 1/2/3|
+|Elder Scrolls Skyrim|
+|Red Faction Guerrilla/Armageddon|
+|Prototype 1/2|
+|Dragon Age Origins/2/Inquisition|
+|Far Cry 3/4|
+|Dying Light|
+|GTA Vice City|
+|Legend Of Korra|
+|Tales of Symphonia 2|
+|Fable 1/3/Remastered(i'm not sorry)|
+|Dead Rising 2/3|
+|Digimon World 1/3/Re:Digitize|
+|Ragnarok Online (way too many hours)|
+|Amazing Spiderman 1/2|
+|Duke Nukem Forever|
+|From Dust|
+|Game of Thrones game (RPG)|
+|Game of Thrones Telltale|
+|The Walking Dead (telltale) 1/2|
+|the Wolf among Us|
+|Hard Reset|
+|Inversion|
+|Dead Space 1/2/3|
+|Dead Island 1|
+|Civilization V/Beyond Earth|
+|Bioshock Infinite|
+|Binary Domain|
+|Alice Madness Return|
+|Back to the Future (telltale)|
+|Batman Arkham Asylum/City/Origins|
+|Crysis 1/2/3|
+|Darkness 2|
+|Bulletstorm|
+|Borderlands 1/2|
+|Metal Gear Rising|
+|Sims 1/2/3/Medieval|
+|Lego Star wars 1/2, the clone wars|
+|Lego indiana johnes|
+|Lego Marvel|
+|Lego Avengers|
+|Jade Empire|
+|Saint's Row 4/Gat out of hell|
+|Starcraft 1/2 wings of liberty|
+|Warhammer 40k Space Marine|
+|XCOM: Enemy Unknown|
+|Red Dead Redemption|
+|Vanquish|
+|Plants vs Zombies 1/2/Garden Warfare/GW2|
+|Pokemon (black/emerald/red leaf?)|
+|Pepsiman (yes, PSX)|
+|Final Fantasy Tactics (Lion War)|
+|Legend of the Dragoon|
+|Final Fantasy VII|
+|Age of Empires I/II|
+|Disciples III|
+|Heroes of Might and Magic VI|
+|Rock of Ages|
+|The Bureau: XCOM Declassified|
+|Katamari Damacy/Touch my Katamari|
+|Phoenix Wright 1/2/3|
+|Strike Suit Zero|
+|Digimon Masters Online (korean server)|
+|Omega Boost|
+|Orochi Warriors 1/2|
+|Hokuto Musou|
+|Gundam Musou|
+|Tales of Vesperia|
+|Spore/galactic adventures|
+|Black & White 1 and 2||

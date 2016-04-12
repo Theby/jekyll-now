@@ -31,8 +31,8 @@ And i also like movies, series (don't care if they're occidental or not), books 
 
 #### Games played
 I like to keep a list of games i've played, because i believe they're a good source of references and/or ideas. These are all i can remember by name at last. And if i have it i might as well share it.
-|Games Played|
-:--------------
+Games Played|
+--------------
 Infamous 1/2/Second Son/First Light|
 Mass effect 1/2/3|
 Dishonored|

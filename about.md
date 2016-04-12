@@ -108,4 +108,10 @@ I like to keep a list of games i've played, because i believe they're a good sou
 |Gundam Musou|
 |Tales of Vesperia|
 |Spore/galactic adventures|
-|Black & White 1 and 2||
+|Black & White 1 and 2|
+
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |

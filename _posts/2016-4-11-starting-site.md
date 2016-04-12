@@ -2,8 +2,6 @@
 layout: post
 title: Finally starting!
 summary: what is this site about
-tags:
-- welcome
 ---
 
 I've been about to start this site many times, but i didn't wanted to do so before i had something to show as my own work. And now i have.

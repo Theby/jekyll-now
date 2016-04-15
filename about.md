@@ -1,13 +1,13 @@
 ---
-layout: default
-title: About
+layout: margin_content
+title: About me
 permalink: /about/
 ---
 
 My name is Angus Pollmann, 24, born and raised in Chile. My mother language is Spanish, but all my work is in english so i'll just stick with it for consistency.
 
 ### Formation
-My studies are an uncompleted (currently last year) university career and self-taught. There are no "bachelor degree" in Chile, but an equivalent of my university career would be a bachelor of business information systems (science in information technology + business study).
+My studies are a last year university career and self-taught. There are no "bachelor degree" in Chile, but an equivalent of my university career would be a bachelor of business information systems (science in information technology + business study).
 
 On my own i've studied as much as i can, programming, game design, writting, psychology, philosophy, and will keep learning as long as i have time.
 
@@ -33,7 +33,7 @@ And i also like movies, series (don't care if they're occidental or not), books 
 I like to keep a list of games i've played, because i believe they're a good source of references and/or ideas. These are all i can remember by name at last. And if i have it i might as well share it.
 
 |Games Played|
-|--------------|
+|:--------------|
 |Infamous 1/2/Second Son/First Light|
 |Mass effect 1/2/3|
 |Dishonored|
